@@ -49,7 +49,7 @@ Replay Trader is a market simulation and trading practice application that allow
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/replay-trader.git
+git clone https://github.com/Sadrib-perfecthonest/Replay-Trader.git
 ```
 
 ### Navigate to the Project Directory
